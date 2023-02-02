@@ -1,7 +1,7 @@
 # Markdown
 
-##Heading h2
-######Heading h6
+## Heading h2
+###### Heading h6
 
 Not a quote
 > Quoate
